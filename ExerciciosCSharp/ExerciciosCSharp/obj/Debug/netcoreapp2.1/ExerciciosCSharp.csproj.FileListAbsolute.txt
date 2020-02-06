@@ -1,0 +1,11 @@
+C:\Projetos\C#\curso\ExerciciosCsharp\ExerciciosCSharp\ExerciciosCSharp\bin\Debug\netcoreapp2.1\ExerciciosCSharp.deps.json
+C:\Projetos\C#\curso\ExerciciosCsharp\ExerciciosCSharp\ExerciciosCSharp\bin\Debug\netcoreapp2.1\ExerciciosCSharp.runtimeconfig.json
+C:\Projetos\C#\curso\ExerciciosCsharp\ExerciciosCSharp\ExerciciosCSharp\bin\Debug\netcoreapp2.1\ExerciciosCSharp.runtimeconfig.dev.json
+C:\Projetos\C#\curso\ExerciciosCsharp\ExerciciosCSharp\ExerciciosCSharp\bin\Debug\netcoreapp2.1\ExerciciosCSharp.dll
+C:\Projetos\C#\curso\ExerciciosCsharp\ExerciciosCSharp\ExerciciosCSharp\bin\Debug\netcoreapp2.1\ExerciciosCSharp.pdb
+C:\Projetos\C#\curso\ExerciciosCsharp\ExerciciosCSharp\ExerciciosCSharp\obj\Debug\netcoreapp2.1\ExerciciosCSharp.csprojAssemblyReference.cache
+C:\Projetos\C#\curso\ExerciciosCsharp\ExerciciosCSharp\ExerciciosCSharp\obj\Debug\netcoreapp2.1\ExerciciosCSharp.csproj.CoreCompileInputs.cache
+C:\Projetos\C#\curso\ExerciciosCsharp\ExerciciosCSharp\ExerciciosCSharp\obj\Debug\netcoreapp2.1\ExerciciosCSharp.AssemblyInfoInputs.cache
+C:\Projetos\C#\curso\ExerciciosCsharp\ExerciciosCSharp\ExerciciosCSharp\obj\Debug\netcoreapp2.1\ExerciciosCSharp.AssemblyInfo.cs
+C:\Projetos\C#\curso\ExerciciosCsharp\ExerciciosCSharp\ExerciciosCSharp\obj\Debug\netcoreapp2.1\ExerciciosCSharp.dll
+C:\Projetos\C#\curso\ExerciciosCsharp\ExerciciosCSharp\ExerciciosCSharp\obj\Debug\netcoreapp2.1\ExerciciosCSharp.pdb
